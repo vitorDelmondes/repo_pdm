@@ -1,0 +1,19 @@
+{
+  "name": "repo_pdm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorDelmondes/repo_pdm.git"
+  },
+  "author": "vitorDelmondes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorDelmondes/repo_pdm/issues"
+  },
+  "homepage": "https://github.com/vitorDelmondes/repo_pdm#readme"
+}
